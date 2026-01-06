@@ -1,0 +1,26 @@
+{
+  "Young": {
+    "n_samples": 3243,
+    "avg_n_fixations": 14.859697810669134,
+    "std_n_fixations": 2.9492135864068616,
+    "avg_duration": 0.5398164391517639,
+    "x_spread": 0.16116276383399963,
+    "y_spread": 0.05622423067688942
+  },
+  "Middle-aged": {
+    "n_samples": 2342,
+    "avg_n_fixations": 14.968403074295473,
+    "std_n_fixations": 2.9128870752852287,
+    "avg_duration": 0.5397567749023438,
+    "x_spread": 0.1596505045890808,
+    "y_spread": 0.05289726331830025
+  },
+  "Older": {
+    "n_samples": 3763,
+    "avg_n_fixations": 14.020462397023651,
+    "std_n_fixations": 2.460391759402156,
+    "avg_duration": 0.559232771396637,
+    "x_spread": 0.1569182276725769,
+    "y_spread": 0.049594905227422714
+  }
+}

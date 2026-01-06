@@ -1,0 +1,14 @@
+{
+  "Random Forest": {
+    "accuracy": 0.6632816675574559
+  },
+  "Gradient Boosting": {
+    "accuracy": 0.6958845537145911
+  },
+  "SVM": {
+    "accuracy": 0.6488508818813469
+  },
+  "MLP": {
+    "accuracy": 0.652592196686264
+  }
+}

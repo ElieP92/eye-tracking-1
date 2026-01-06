@@ -1,0 +1,56 @@
+{
+  "model": "FeatureDominantHybrid",
+  "best_accuracy": 0.7259100642398287,
+  "epochs_trained": 136,
+  "final_feature_weight": 0.6396018862724304,
+  "confusion_matrix": [
+    [
+      414,
+      162,
+      73
+    ],
+    [
+      66,
+      339,
+      63
+    ],
+    [
+      52,
+      110,
+      589
+    ]
+  ],
+  "classification_report": {
+    "Young": {
+      "precision": 0.7781954887218046,
+      "recall": 0.637904468412943,
+      "f1-score": 0.7011007620660458,
+      "support": 649.0
+    },
+    "Middle-aged": {
+      "precision": 0.5548281505728314,
+      "recall": 0.7243589743589743,
+      "f1-score": 0.6283595922150139,
+      "support": 468.0
+    },
+    "Older": {
+      "precision": 0.8124137931034483,
+      "recall": 0.7842876165113183,
+      "f1-score": 0.7981029810298103,
+      "support": 751.0
+    },
+    "accuracy": 0.7184154175588865,
+    "macro avg": {
+      "precision": 0.7151458107993615,
+      "recall": 0.7155170197610786,
+      "f1-score": 0.7091877784369567,
+      "support": 1868.0
+    },
+    "weighted avg": {
+      "precision": 0.7359910092447676,
+      "recall": 0.7184154175588865,
+      "f1-score": 0.7218747443741315,
+      "support": 1868.0
+    }
+  }
+}
