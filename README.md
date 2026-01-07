@@ -57,7 +57,12 @@ projet_occulo/
 │       ├── train_ml_rich.py          # Classical ML classifiers
 │       ├── analyze_emotional_design.py
 │       └── explainability.py
+├── example_data/                 # Sample files for testing
+│   ├── 0011.asc                  # EyeLink eye-tracking data
+│   └── HAconfig1_V4_withOculo-01-32.txt  # E-Prime behavioral log
 ├── results/
+│   ├── deep_learning_data/
+│   │   └── rich_features.csv     # Preprocessed features (all participants)
 │   └── deep_learning_results/    # Figures, metrics, reports
 └── requirements.txt
 ```
